@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">三国斗地主</string>
+    <string name="start_game">开始游戏</string>
+    <string name="leader_board">英雄榜</string>
+    <string name="options">游戏设置</string>
+    <string name="help">帮助</string>
+    
+    <string name="media_setting">音乐设置</string>
+    <string name="background_music">背景音乐</string>
+    <string name="game_music">游戏音乐</string>
+    <string name="on">开</string>
+    <string name="off">关</string>
+    
+    <string name="help_title">游戏说明</string>
+    <string name="help_info">游戏说明</string>
+    <string name="exit">是否确定退出？</string>
+    <string name="exit_game_screen">是否确定退出本局游戏？</string>
+    <string name="no_show_again">不再显示</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    
+    <string name="alert">警告！</string>
+    <string name="noPermission">您的兵力不够，请选择用积分换取兵力！</string>
+    <string name="sure">确定</string>
+    
+    <string name="choose">请选择一个势力，确认后将不能更改！</string>
+    
+    <string name="no1">第一名:</string>
+    <string name="no2">第二名:</string>
+    <string name="no3">第三名:</string>
+    <string name="no4">第四名:</string>
+    <string name="no5">第五名:</string>
+    <string name="view_online_records">查看全球排行榜</string>
+    
+    <string name="gameover_dialog_title">恭喜你，你获得 $</string>
+    <string name="gameover_dialog_ent">输入你的名字:</string>
+    <string name="gameover_dialog_advice">(此名字用于本地排名)</string>
+    <string name="gameover_dialog_positive">上传到服务器</string>
+    <string name="gameover_dialog_negative">仅保存到本地</string>
+    
+    <string name="noOneCalls">没有人叫地主，开始下一局</string>
+    <string name="viewpoint">查看积分</string>
+    
+    <string name="brief_title">游戏说明</string>
+    <string name="brief">全新的玩法，全新的策略！*基本内容：三国斗地主将时下风靡的斗地主游戏与三国题材联系起来。*首次登录游戏需要选择一个势力，每次游戏都会投入一定的基础兵力，兵力的多少由你拥有的城池数量决定。游戏中通过叫分和炸弹等实现兵力的翻倍。兵力达到或损失一定数量后城得到或失去城池。当兵力为0时游戏将不能进行，需要通过积分换取。*特色内容：游戏引入了武将的概念，每一次胜利局将会获得跟炸弹数等量的武将，武将总数不能超过城池总数，可以在选择势力界面查看所得武将。*基本操作：支持单选，多选，滑动选择等</string>
+	<string name="pointstitle">pointstitle</string>
+	<string name="btn_show_rewardoffers">btn_show_rewardoffers</string>
+	<string name="award">award</string>
+	<string name="spendpoints">spendpoints</string>
+	<string name="refresh">refresh</string>
+	
+	<string name="btn_to_rewardless_applist">btn_to_rewardless_applist</string>
+	<string name="btn_to_rewardless_featuredapp">btn_to_rewardless_applistbtn_to_rewardless_featuredapp</string>
+	
+	<string name="nopoints">积分不足,无法换取兵力！</string>
+</resources>
